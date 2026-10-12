@@ -1,0 +1,13 @@
+{
+  "agentName": "Jordan Rivers",
+  "title": "REALTOR®",
+  "brokerage": "Summit Realty",
+  "phone": "(512) 555-0142",
+  "email": "jordan@summitrealty.com",
+  "website": "jordanrivers.com",
+  "logo": "logo.svg",
+  "headshot": "headshot.svg",
+  "colors": { "primary": "#0F2A44", "accent": "#C8A15A" },
+  "transition": "push",
+  "sfx": true
+}

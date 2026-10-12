@@ -1,0 +1,15 @@
+{
+  "template": "just-listed",
+  "address": { "street": "123 Oak Street", "city": "Austin", "state": "TX", "zip": "78701" },
+  "price": 1250000,
+  "beds": 4,
+  "baths": 3,
+  "sqft": 2850,
+  "features": [
+    "Chef's kitchen with quartz island",
+    "Vaulted primary suite",
+    "Resort-style backyard"
+  ],
+  "openHouse": { "date": "Saturday, Oct 18", "time": "1 – 4 PM" },
+  "music": "music.mp3"
+}
